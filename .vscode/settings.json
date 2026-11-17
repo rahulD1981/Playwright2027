@@ -1,0 +1,5 @@
+{
+  "testing.gutterEnabled": true,
+  "testing.defaultGutterClickAction": "run",
+  "testing.automaticallyOpenPeek": true
+}
